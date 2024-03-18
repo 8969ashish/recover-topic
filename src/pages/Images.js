@@ -16,8 +16,8 @@ const singer=[
 		image_url: "https://i.timesnowhindi.com/stories/Lata_Mangeshkar_Passes_away.jpg?tr=w-1200,h-900"
 },
 {
-	name: "Honey singh",
-		image_url: "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-25253,resizemode-75,msid-44406506/news/politics-and-nation/too-woo-youth-inld-ropes-in-yo-yo-honey-singh.jpg"
+	name: "Modi Ji 😁",
+		image_url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/4/2023_4$largeimg_1719190678.jpeg"
 },
 {
 	name: "Alka yagni ",

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import images from './Images';
+
 import singer from './Images';
 function DropdownImage() {
 
