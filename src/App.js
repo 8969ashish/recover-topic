@@ -1,13 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import TodoApp from './pages/todo/TodoApp'
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-   <h1  className='bg-slate-800' >recover topic </h1>
-   <h2>ya ya ya main balram </h2>
+    <div>
+
+{/* <Task/> */}
+<TodoApp /> 
+
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
